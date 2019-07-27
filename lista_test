@@ -1,0 +1,11 @@
+Tip teste:
+
+abcd -> care litera are cele mai multe voturi
+tcpr(triunghi cerc patrat romb ) -> care figura are mai multe voturi
+bifare->  calculeaza numarul de check boxuri
+nonbif-> calculeaza numarul de check boxuri ne bifate inmultit la 4 
+patrat/tcpr-> calculeaza nb patrate /2 si care figura are mai multe voturi
+da/nu-> 2 pts da; 1 mai degraba da; 0.5 mai degraba nu; 0 nu
+abcd_punctat-> a=0;b=1;c=2 etc;
+tcprtotal-> calulezi numarul de puncte pentru fiecare figura
+
