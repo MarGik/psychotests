@@ -1,0 +1,26 @@
+[
+	{
+		"_id" : "pst_001" ,
+		"qualification" : [ {
+								"_id" : "pst_001_a" ,
+								"title" : "Majoritatea [A] , Furia de a învinge" , 
+								"description" : "Dai dovada de o dorință insațiabilă de succes. Deseori acest lucru este foarte stimulant : din punct de vedere social, nu te îndoiești in nimic ce ține de slujba ta , nu vezi nicăieri obstacole, deaceea deseori reușești acolo unde alții nici măcar nu îndrăznesc să încerce..."  
+							},
+							{
+								"_id" : "pst_001_b",
+								"title" : "Majoritatea [B] , Nevoia de iubire."	,
+								"description" : "De vină sa fie oare niste parinti un pic indiferenti , o copilarie mai grea sau un esec sentimental ? in tot cazul astazi  dragostea este ceva care te conduce in actiunile tale. Ai nevoie sa fii iubit/iubită si sa iubești pentru a te simti plin de viață..."
+							},
+							{
+								"_id" : "pst_001_c",
+								"title" : "Majoritatea [C] , Setea de recunoștință",
+								"description" : "Oare este vorba de timiditate sau din contra de siguranta de sine? In tot cazul faci totul pentru a iesi in evidenta . Avantaje : esti foarte sociabil/sociabilă , ai carismă , știi să te faci placut/placută , sa seduci nu numai fizic ..."
+							},
+							{
+								"_id" : "pst_001_d",
+								"title" : "Majoritatea [D] , Nevoia de siguranță.",
+								"description" : "Ai renuntat la aproape toate visele tale de copil si la prime tale ambitii. În prezent m ai o anumita experienta dobandita de viata sau profesoana.Te multumesti sa o pastrezi , forțându-se sa nu te lauzi prea tare . Asta prezintă,evident avantaje"
+							}
+						]
+	}
+]

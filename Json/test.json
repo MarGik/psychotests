@@ -1,0 +1,73 @@
+[
+	{
+		"_id" : "pst_001" ,
+		"title" : "Ce te stimulează în viață?" ,
+		"description" : "Ce lucruri te motivează , ce te face să te scoli în fiecare dimineață și să dai piept cu viața? Dragostea, ambiția, dorința de succes... Răspunde la urmatoare întrebări pentru a afla care este stimulul tău..." ,
+		
+		"response_question" : [
+					{	
+						"question" : "Să trăiești o dragoste adevărată:" ,
+						"_idR" : "pst_001_1" ,
+						"response_a" : "a.  îți cere mult timp.",
+						"response_b" : "b.  Este un lucru miraculos." ,
+						"response_c" : "c.  Nu crezi în dragostea adevărată.",
+						"response_d" : "d.  Este foarte complicat, un pic riscant."
+
+					},
+					{	
+						"question" : "Ce îți provoacă teama:" ,
+						"_idR" : "pst_001_2" ,
+						"response_a" : "a.  Să eșuezi în realizarea ambițiilor tale.",
+						"response_b" : "b.  Să fii ambandonat/ambandonată." ,
+						"response_c" : "c.  Să nu intereseze pe nimeni de tine.",
+						"response_d" : "d.  Să-ți pierzi serviciul."
+
+					},
+					{	
+						"question" : "Ce te împiedică să fii fericit/fericită:" ,
+						"_idR" : "pst_001_3" ,
+						"response_a" : "a.  Oamenii care îți pun biețe în roate.",
+						"response_b" : "b.  Egoismul celorlalți." ,
+						"response_c" : "c.  Nedreptatea",
+						"response_d" : "d.  Agresivitatea din viața zilnică."
+
+					},
+					{	
+						"question" : "Ești dispus să cumperi un produs atunci când:" ,
+						"_idR" : "pst_001_4" ,
+						"response_a" : "a.  Esti sigur/sigură de calitațile lui.",
+						"response_b" : "b.  Produsul susține financiar o cauză umanitară." ,
+						"response_c" : "c.  Marca produsului îți inspiră încredere.",
+						"response_d" : "d.  Prezintă garanții ecobiologice."
+
+					},
+					{	
+						"question" : "Fericirea înseamnă mai ales:" ,
+						"_idR" : "pst_001_5" ,
+						"response_a" : "a.  O chestie de voință.",
+						"response_b" : "b.  Să ai si puțin noroc." ,
+						"response_c" : "c.  Să ai succes.",
+						"response_d" : "d.  Să nu întâlnești nefericirea."
+
+					},
+					{	
+						"question" : "Chiar dacă ai iubi pe cineva, nu ai fi pregatit/pregatită:" ,
+						"_idR" : "pst_001_6" ,
+						"response_a" : "a.  Să îți sacrifici cariera.",
+						"response_b" : "b.  Să rupi relația cu familia ta." ,
+						"response_c" : "c.  Să renunți la prieteni.",
+						"response_d" : "d.  Să lași totul pentru a-ți reface viața și să pleci în străinătate."
+
+					},
+					{	
+						"question" : "Ți-ai ales meseria actuală:" ,
+						"_idR" : "pst_001_7" ,
+						"response_a" : "a.  Pentru reușită socială.",
+						"response_b" : "b.  Pentru a le face pe plac părinților." ,
+						"response_c" : "c.  Din întâmplare.",
+						"response_d" : "d.  Pentru siguranța care mi-o oferă."
+
+					}
+					]
+	}
+]
