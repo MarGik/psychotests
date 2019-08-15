@@ -7,15 +7,38 @@ body {
             user-select: none; /* Non-prefixed version, currently
                                   supported by Chrome and Opera */
 }
-
+/* cooment */
+.abs-center-x {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+/* comment */
 .menu,.header,.header img{
   width: 100%;
-  height: 50%;
+  height:50px;
+
+}
+.top-nav-collapse {
+  background-color: #424f95 !important;
+}
+
+
+.navbar:not(.top-nav-collapse) {
+  background: transparent !important;
 
 }
 
+
+
+@media (max-width: 991px) {
+
+  .navbar:not(.top-nav-collapse){
+    background: linear-gradient(#e66465, #9198e5) !important;
+      }
+}
 .content_next,.content,.menu{
-  margin-top:  50px;
+  margin-top:  60px;
   text-align: center;
 }
 .menu > ul {
@@ -30,10 +53,6 @@ body {
   position: relative;
 }
 
-ul>li:hover{
-  font-size: 32px !important;
-  z-index: 1;
-}
 .content>h3{
   padding-top: 20px;
   margin-top: 20px;
